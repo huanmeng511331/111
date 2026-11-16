@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+*.log
+.DS_Store
+frontend/auto-imports.d.ts
+frontend/components.d.ts
