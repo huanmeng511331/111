@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/demo.db
+backend/demo.db-journal
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# 本地文件
+.DS_Store
+tmp/
